@@ -11,6 +11,7 @@
 5. Prajakta Barde - pvbarde_b20@pe.vjti.ac.in
 6. Shruti Tambe - srtambe_b20@it.vjti.ac.in
 
+
 ### **Project Description**
 Integrated information platform for information about Indian Universities
 
@@ -22,6 +23,7 @@ Smart Education
 
 
 ### **GITHUB REPO** - [Pragati](https://github.com/Madhura-saw/Pragati-website)
+
 
 ### **Technology Stack**
 1. HTML,CSS,JS
